@@ -1,0 +1,13 @@
+Ejemplo 1:
+{
+  "tipo": "Vías",
+  "descripcion": "Calle 16 con carrera 9 presenta un hueco profundo que lleva tres semanas sin 
+  reparar, generando accidentes a motociclistas y daños en vehículos del sector."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Agua potable",
+  "descripcion": "El barrio Los Mayales lleva más de 48 horas sin servicio de agua potable, 
+  afectando a más de 200 familias que no pueden realizar sus actividades básicas del hogar."
+}

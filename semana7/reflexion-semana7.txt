@@ -1,0 +1,9 @@
+Que las comunidades puedan registrar y consultar reportes en una plataforma
+tecnológica es fundamental porque permite documentar los problemas de forma
+organizada y accesible para todos. Sin este tipo de herramientas, los reportes
+pueden perderse o no llegar a las personas correctas.
+
+Un sistema de reportes digital permite que las autoridades consulten en tiempo
+real las incidencias registradas, prioricen su atención y den seguimiento a cada
+caso. Además, los ciudadanos pueden verificar que su reporte fue recibido, lo
+que genera confianza en el proceso.

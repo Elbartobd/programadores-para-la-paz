@@ -1,0 +1,31 @@
+Se enviaron dos reportes mediante POST a http://localhost:3000/reportes.
+
+Se enviaron dos reportes mediante POST a http://localhost:3000/reportes.
+
+Reporte 1 enviado:
+{
+  "tipo": "Vías",
+  "descripcion": "Calle 16 con carrera 9 presenta un hueco profundo que lleva tres semanas sin reparar"
+}
+
+Reporte 2 enviado:
+{
+  "tipo": "Agua potable",
+  "descripcion": "El barrio Los Mayales lleva más de 48 horas sin servicio de agua potable"
+}
+
+Al consultar GET http://localhost:3000/reportes el servidor respondió con:
+[
+  {
+    "id": 1,
+    "tipo": "Vías",
+    "descripcion": "Calle 16 con carrera 9 presenta un hueco profundo que lleva tres semanas sin reparar"
+  },
+  {
+    "id": 2,
+    "tipo": "Agua potable",
+    "descripcion": "El barrio Los Mayales lleva más de 48 horas sin servicio de agua potable"
+  }
+]
+
+El array almacena todos los reportes en memoria y los devuelve al consultarlos.
