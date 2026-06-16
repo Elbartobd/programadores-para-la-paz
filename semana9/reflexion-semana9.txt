@@ -1,0 +1,10 @@
+Las plataformas tecnológicas que usan las comunidades deben funcionar de manera
+estable y segura porque de ellas dependen servicios esenciales para las personas.
+Cuando un servidor falla, los usuarios pierden acceso a información, comunicación
+o herramientas que pueden ser críticas en su vida diaria. La estabilidad garantiza
+que el servicio esté disponible en todo momento, sin interrupciones inesperadas.
+La seguridad, por su parte, protege los datos personales de los usuarios frente
+a accesos no autorizados o ataques externos. Un servidor mal configurado puede
+exponer información sensible y generar desconfianza en la comunidad. Por eso,
+monitorear la ejecución, registrar errores y aplicar buenas prácticas de configuración
+no es opcional, sino una responsabilidad ética de quienes desarrollan tecnología.
