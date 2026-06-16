@@ -1,0 +1,10 @@
+Que las comunidades construyan sus propias herramientas con tecnologías abiertas como 
+Node.js es fundamental porque les otorga soberanía tecnológica, permitiéndoles ser 
+dueñas absolutas de sus datos y de sus plataformas sin depender de los costos o reglas 
+de empresas privadas. Al utilizar JavaScript, que es un lenguaje accesible y popular, 
+facilita que los propios miembros de la comunidad aprendan a mantener y mejorar el 
+software, impulsando el talento local. Además, al ser código abierto, garantiza una 
+transparencia total en el manejo de la información y permite desarrollar soluciones 
+hechas exactamente a la medida de sus problemas locales —como sistemas de organización 
+barrial o monitoreo comunitario—, transformando a los ciudadanos de simples consumidores 
+pasivos en creadores activos de su propio bienestar.
