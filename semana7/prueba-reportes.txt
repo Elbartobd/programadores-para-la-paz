@@ -1,7 +1,5 @@
 Se enviaron dos reportes mediante POST a http://localhost:3000/reportes.
 
-Se enviaron dos reportes mediante POST a http://localhost:3000/reportes.
-
 Reporte 1 enviado:
 {
   "tipo": "Vías",
