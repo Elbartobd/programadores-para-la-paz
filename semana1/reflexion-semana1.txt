@@ -1,0 +1,8 @@
+La verdad es que estos tres temas se conectan porque se tratan de cómo trabajar en equipo a gran escala 
+sin que todo se vuelva un caos. Piensa en Git como las reglas del juego: te enseña a colaborar de forma
+ordenada, dejando un historial de quién hizo qué para que nadie invente o borre el trabajo de otros. Si
+llevas eso a la vida real, el uso responsable de la información es básicamente no compartir cualquier 
+"fake news" que te encuentres, es decir, revisar las fuentes antes de pasarlas, igual que revisas el 
+(código antes de subirlo. Al final, si los jóvenes usamos internet con esa misma lógica (con datos reales
+y organizados), nuestra participación ciudadana deja de ser solo quejarse en redes y se convierte en 
+propuestas reales y transparentes para cambiar las cosas.
