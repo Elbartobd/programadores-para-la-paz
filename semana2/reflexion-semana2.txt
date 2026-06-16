@@ -1,4 +1,10 @@
-Dominar la terminal es clave porque te da el control total del sistema y te permite trabajar mil veces más rápido; en lugar de perder tiempo soltando el teclado para hacer clics, 
-creas archivos y te mueves entre carpetas con unos cuantos de comandos, lo que además te permite hacer en auto las tareas más aburridas de tus proyectos. Pero lo más importante es que
-en el mundo real es obligatorio saber usar la terminal, ya que cuando trabajas con herramientas como Git o subes tus proyectos a servidores en la nube, no hay interfaces bonitas con botones, solo una 
-pantalla negra donde si no sabes navegar a punta de comandos, simplemente te quedas fuera.
+Dominar la terminal es totalmente clave para cualquier desarrollador porque te da el control total de tu computadora y te permite
+trabajar a una velocidad que es imposible de alcanzar usando solo el mouse y las ventanas de siempre. En lugar de perder tiempo 
+soltando el teclado para hacer clics, arrastrar carpetas y abrir menús, con la terminal te mueves entre los archivos de tu proyecto 
+y creas estructuras enteras con un par de comandos, lo que además te abre la puerta a automatizar todas esas tareas repetitivas 
+y aburridas que te quitan energía. Pero más allá de la comodidad, la verdadera razón por la que tienes que aprender a usarla es que 
+es el estándar de la industria en el mundo real: cuando empiezas a trabajar en equipo con herramientas como Git, o cuando te toca 
+subir tu aplicación a un servidor en la nube (como AWS o Firebase) para que la gente pueda usarla, las interfaces gráficas bonitas 
+desaparecen por completo. En su lugar, lo único que vas a tener frente a ti es una pantalla negra esperando tus órdenes, por lo que 
+saber navegar y organizar tus proyectos desde ahí es, literalmente, lo que te separa de los que solo programan por hobby y te convierte 
+en un desarrollador profesional listo para el trabajo de verdad.
