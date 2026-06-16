@@ -1,0 +1,4 @@
+Dominar la terminal es clave porque te da el control total del sistema y te permite trabajar mil veces más rápido; en lugar de perder tiempo soltando el teclado para hacer clics, 
+creas archivos y te mueves entre carpetas con unos cuantos de comandos, lo que además te permite hacer en auto las tareas más aburridas de tus proyectos. Pero lo más importante es que
+en el mundo real es obligatorio saber usar la terminal, ya que cuando trabajas con herramientas como Git o subes tus proyectos a servidores en la nube, no hay interfaces bonitas con botones, solo una 
+pantalla negra donde si no sabes navegar a punta de comandos, simplemente te quedas fuera.
