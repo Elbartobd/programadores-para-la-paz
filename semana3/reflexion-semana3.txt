@@ -1,0 +1,8 @@
+Mantener un registro de cambios con Git es básicamente el salvavidas de cualquier proyecto
+y lo que evita que trabajar en desarrollo se vuelva un caos total. Funciona como el botón 
+de "deshacer" definitivo, ya que si metes un código nuevo y rompes toda la aplicación, puedes 
+regresar en el tiempo al punto exacto donde todo funcionaba perfectamente sin perder nada de tu 
+progreso. Además, te permite auditar el historial para saber exactamente quién hizo qué cambio, 
+cuándo y por qué, facilitando que un equipo trabaje en la misma aplicación a través de ramas (branches) 
+sin pisarse los pies ni borrarse el código entre sí. En resumen, programar sin Git es como jugar 
+un videojuego dificilísimo sin poder guardar la partida: estás a un solo error de perderlo todo.
