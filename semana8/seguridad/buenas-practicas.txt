@@ -1,0 +1,3 @@
+1. Usar contraseñas seguras con combinación de letras, números y símbolos
+2. No compartir credenciales de acceso con otras personas
+3. Mantener el software y las aplicaciones siempre actualizadosecho 

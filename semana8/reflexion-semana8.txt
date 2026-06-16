@@ -1,0 +1,10 @@
+La seguridad digital es fundamental para proteger las plataformas tecnológicas
+comunitarias porque estas manejan información sensible de ciudadanos que confían
+en el sistema. Si una plataforma no es segura, los datos personales pueden ser
+robados o mal utilizados, afectando a toda la comunidad.
+
+En procesos participativos como votaciones o reportes ciudadanos, la seguridad
+es aún más crítica porque cualquier vulnerabilidad podría comprometer la
+integridad del proceso y generar desconfianza en la comunidad. Por eso es
+esencial usar contraseñas fuertes, conexiones seguras y controlar quién
+tiene acceso a la información.
