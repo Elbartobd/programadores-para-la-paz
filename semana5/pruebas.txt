@@ -1,0 +1,11 @@
+Ruta 1: http://localhost:3000
+Resultado: El servidor responde con el texto "Servidor activo".
+Esta es la ruta principal que confirma que el servidor está funcionando correctamente.
+
+Ruta 2: http://localhost:3000/saludo
+Resultado: El servidor responde con "Hola comunidad".
+Esta ruta devuelve un saludo general para todos los usuarios.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+Resultado: El servidor responde con "Hola juan".
+Esta ruta recibe un parámetro (nombre) en la URL y lo usa para personalizar el saludo.

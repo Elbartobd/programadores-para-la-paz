@@ -1,0 +1,13 @@
+Las APIs permiten que diferentes sistemas se comuniquen de forma organizada y
+estructurada, lo que las hace ideales para que las comunidades compartan información
+de manera eficiente. A través de una API, una comunidad podría enviar reportes,
+alertas o solicitudes desde cualquier dispositivo conectado a internet.
+
+Por ejemplo, una app comunitaria podría usar rutas POST para que los vecinos
+reporten problemas, y rutas GET para que las autoridades consulten esos reportes
+en tiempo real. Esto elimina la necesidad de procesos manuales y reduce el tiempo
+de respuesta ante emergencias o necesidades colectivas.
+
+En conclusión, las APIs son una herramienta poderosa para la participación ciudadana
+digital, ya que permiten construir canales de comunicación directos, organizados y
+accesibles para toda la comunidad.
