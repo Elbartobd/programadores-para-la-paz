@@ -1,0 +1,4 @@
+{
+  "tipo": "Vía en mal estado",
+  "descripcion": "Los vecinos del barrio El Prado reportan un hueco de gran tamaño en la calle principal que lleva más de dos meses sin ser reparado, causando daños a los vehículos y riesgo para los peatones."
+}

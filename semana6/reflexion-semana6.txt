@@ -1,0 +1,9 @@
+Que las plataformas tecnológicas puedan recibir reportes de ciudadanos de forma
+estructurada es fundamental para que la información llegue de manera clara y
+organizada a quienes deben actuar. Sin una estructura definida, los reportes
+podrían ser confusos o incompletos, dificultando la toma de decisiones.
+
+El uso de JSON permite estandarizar los datos enviados, lo que facilita que
+diferentes sistemas los procesen automáticamente. Por ejemplo, una app comunitaria
+podría recibir reportes de incidencias, clasificarlos por tipo y enviarlos
+directamente a la entidad responsable sin intervención manual.
