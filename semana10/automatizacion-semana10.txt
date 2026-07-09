@@ -1,0 +1,19 @@
+Flujo de automatización con n8n y Telegram
+
+Evento que activa el flujo:
+Se registra un nuevo reporte en la plataforma de veeduría comunitaria.
+
+Acción:
+n8n detecta el nuevo registro y envía automáticamente un mensaje
+al canal de Telegram del equipo coordinador.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte recibido. Por favor revisar el sistema para asignar seguimiento."
+
+Información que NO debe enviarse por seguridad:
+- Nombre completo del ciudadano que reportó.
+- Número de documento de identidad.
+- Dirección exacta o ubicación precisa del denunciante.
+- Número de teléfono o correo electrónico.
+- Tokens, claves de API o credenciales del sistema.
+- Cualquier dato que permita identificar directamente a la persona.

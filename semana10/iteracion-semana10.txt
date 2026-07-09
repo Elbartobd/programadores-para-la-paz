@@ -1,0 +1,18 @@
+Iteración 1 — Tareas prioritarias
+
+Tarea 1: Registrar una incidencia con descripción y ubicación.
+Tarea 2: Notificar al coordinador por Telegram cuando llegue un nuevo reporte.
+
+¿Por qué son las más importantes?
+Estas dos tareas forman el núcleo del sistema: sin la capacidad de registrar
+un reporte no hay nada que procesar, y sin la notificación al coordinador
+el reporte quedaría sin atención. Juntas permiten que el flujo básico de
+veeduría funcione de extremo a extremo desde el primer día.
+
+Definición de terminado:
+Una tarea se considera terminada cuando cumple los siguientes criterios:
+1. Funciona correctamente en el entorno de prueba.
+2. Fue probada con al menos un caso real o simulado.
+3. Quedó registrada en Git con un commit claro y descriptivo.
+4. No expone datos sensibles ni credenciales en el código.
+5. Fue revisada por al menos un miembro del equipo.
