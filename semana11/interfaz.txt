@@ -1,0 +1,16 @@
+Interfaz básica — Plataforma comunitaria de veeduría
+
+La interfaz tendría una sección principal para crear un nuevo reporte
+comunitario, con campos de título, descripción, categoría y fecha.
+
+También tendría una lista de reportes disponibles para que los usuarios
+puedan consultarlos, filtrarlos por estado y hacer seguimiento de cada caso.
+
+Cada reporte tendría un botón para marcar apoyo y un contador que muestre
+cuántas personas han respaldado esa situación reportada.
+
+Habría una sección de seguimiento donde el coordinador puede actualizar
+el estado del reporte y dejar comentarios sobre las acciones tomadas.
+
+La interfaz debe ser clara, sencilla y no debe mostrar información privada
+de los ciudadanos, protegiendo siempre su identidad y sus datos personales.

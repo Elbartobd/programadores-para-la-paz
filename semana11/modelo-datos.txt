@@ -1,0 +1,43 @@
+Modelo de datos — Plataforma comunitaria de veeduría
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha
+- estado
+
+Propósito:
+Registrar las incidencias o situaciones que los ciudadanos reportan
+en la plataforma para que el equipo pueda darles seguimiento.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- responsable
+- comentario
+- fecha_actualizacion
+- estado_actual
+
+Propósito:
+Registrar el avance de cada reporte, indicando quién lo está atendiendo,
+qué acciones se han tomado y en qué estado se encuentra actualmente.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- rol
+- fecha_registro
+
+Propósito:
+Gestionar quién puede acceder a la plataforma y qué funciones
+puede realizar según su rol (ciudadano, coordinador o administrador).

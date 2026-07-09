@@ -1,0 +1,12 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita
+una base de datos para almacenar de forma organizada los reportes, usuarios
+y seguimientos, permitiendo que la información esté disponible en todo momento.
+Sin una base de datos estructurada, los datos se perderían fácilmente y sería
+imposible hacer un seguimiento real de los casos reportados por la comunidad.
+La autenticación de usuarios es igualmente necesaria porque garantiza que cada
+persona acceda solo a las funciones que le corresponden según su rol, evitando
+que información sensible quede expuesta a personas no autorizadas.
+La protección de información es una responsabilidad ética fundamental, ya que
+los ciudadanos que usan la plataforma confían en que sus datos estarán seguros
+y no serán usados de forma indebida. Juntos, estos tres elementos hacen posible
+que la plataforma sea confiable, funcional y respetuosa con la comunidad.
