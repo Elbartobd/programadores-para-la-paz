@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede fortalecer
+la participación ciudadana cuando se usa con responsabilidad.
+Entendí que construir una plataforma no es solo escribir código,
+sino pensar en las necesidades de las personas y proteger su
+información. Aprender a usar backlog e iteraciones me mostró
+que los proyectos avanzan mejor cuando se organizan por pasos.
+También comprendí la importancia de la autenticación y los roles
+para controlar quién accede a qué información. Herramientas como
+n8n y Telegram me enseñaron que la automatización puede agilizar
+el trabajo sin exponer datos sensibles. Este curso me dejó claro
+que tecnología, organización y ética deben ir siempre juntas.
